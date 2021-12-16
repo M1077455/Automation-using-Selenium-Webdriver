@@ -15,7 +15,7 @@ public class AmazonAutomation {
 		 driver.manage().window().maximize();
 		  driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		  
-		  //Navigate to Amazon Website
+		  //Navigate to Amazon WEBSITE
 		driver.get("http://www.amazon.in");			
 		
 				driver.manage().window().maximize();
